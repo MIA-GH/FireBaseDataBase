@@ -1,6 +1,8 @@
 # FireBaseDataBase
 Writing data to and retrieving from google firebase database
 
+NOTE::::Be sure to delete the google_json file in the app folder (https://github.com/MIA-GH/FireBaseDataBase/blob/master/app/google-services.json).
+
 steps to add firebase to your app in android studio
 0 make sure u have internet connection
 1 open 'Tools' from the main menu Bar
